@@ -26,6 +26,19 @@
       <version>4.11</version>
       <scope>test</scope>
     </dependency>
+<distributionManagement>
+    <repository>
+        <id>central</id>
+        <name>ip-172-31-25-19.us-east-2.compute.internal-releases</name>
+        <url>https://jfrogvny.com/artifactory/maven-libs-release-local</url>
+    </repository>
+    <snapshotRepository>
+        <id>snapshots</id>
+        <name>ip-172-31-25-19.us-east-2.compute.internal-snapshots</name>
+        <url>https://jfrogvny.com/artifactory/maven-libs-snapshot-local</url>
+    </snapshotRepository>
+</distributionManagement>
+</distributionManagement>
   </dependencies>
 
   <build>
