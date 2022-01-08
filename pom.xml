@@ -26,6 +26,7 @@
       <version>4.11</version>
       <scope>test</scope>
     </dependency>
+  </dependencies>
 <distributionManagement>
     <repository>
         <id>central</id>
@@ -38,7 +39,6 @@
         <url>https://jfrogvny.com/artifactory/maven-libs-snapshot-local</url>
     </snapshotRepository>
 </distributionManagement>
-  </dependencies>
 
   <build>
     <finalName>webapp-project</finalName>
