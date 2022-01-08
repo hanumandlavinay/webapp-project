@@ -38,7 +38,6 @@
         <url>https://jfrogvny.com/artifactory/maven-libs-snapshot-local</url>
     </snapshotRepository>
 </distributionManagement>
-</distributionManagement>
   </dependencies>
 
   <build>
